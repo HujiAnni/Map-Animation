@@ -1,6 +1,6 @@
 # Map-Animation
 
-<img src="./images/BusTracker.jpg">
+<img src="./images/BusTracker.jpg" alt="Intro Image">
 
 
 This project shows a map that tracks bus stops between MIT and Harvard, with an animation showing the route of the busline.
@@ -14,6 +14,7 @@ This Project is a map showing bus stops between MIT and Harvard. The map is buil
 <br>
 
 ## Demo
+<img src="./images/demo-busAnime.gif" alt="Demo GIF">
 
 
 <br>
